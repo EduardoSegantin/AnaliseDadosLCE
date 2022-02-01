@@ -12,6 +12,8 @@ Por se tratar de um laboratório multiusuário de finaciamento públioco, regula
 
 Os dados foram coletados do sistema de agendamento online e convertidos em .csv.
 
-< foto do sistema>
+<img src="/home/eduardo/Documents/Estudos/Projetos/AnaliseDadosLCE/Imagens/2022-02-01_12-36.png" style="zoom:75%;" />
 
 Com os dados em mãos, foram utilizadas duas bibliotecas  (**Pandas** e **Matplotlib**) para fazer a análise de dados. 
+
+Os dados pessoais foram omitidos para preservar a identidade dos usuários do LCE.
